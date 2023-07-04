@@ -54,6 +54,7 @@ fn find_term(search_term: &str, quote: &str) -> String {
             }
         }
     }
+    println!("{final_itog}");
     final_itog
 }
 
