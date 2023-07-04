@@ -9,12 +9,12 @@ edition = "2021"
 
 name = "task1"
 
-path = "src/task1.rs"
+path = "Home_Work/hw_2/src/task1.rs"
 
 [[bin]]
 
 name = "task2"
 
-path = "src/task2.rs"
+path = "Home_Work/hw_2/src/task2.rs"
 
 [dependencies]
