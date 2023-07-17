@@ -1,0 +1,1 @@
+C:\Users\User\projects-Rust\a\Rust_Book\14)generic_types_types_and_lifetime\target\debug\main1.exe: C:\Users\User\projects-Rust\a\Rust_Book\14)generic_types_types_and_lifetime\src\lib.rs C:\Users\User\projects-Rust\a\Rust_Book\14)generic_types_types_and_lifetime\src\main1.rs
